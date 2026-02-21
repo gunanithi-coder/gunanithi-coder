@@ -18,10 +18,11 @@
 
 ### 👨‍💻 **About Me**
 
-- 🔭 I’m currently working on **AirGuard AI** and **Vajra-X**.
+- 🏆 Finalist At **REsilient AI Hackthon**. 
+- 🔭 I’m currently working on **Innoverse** and **Foss Hackthon**.
 - 🌱 I’m currently exploring **Edge AI (NXP)** and **Tactical Intelligence Systems**.
-- 🏆 I actively participate in national hackathons like **Fedex**, **Loop**, and **SimVerse**.
-- 💬 Ask me about **React, Python, and Building AI Agents**.
+
+
 
 ---
 
