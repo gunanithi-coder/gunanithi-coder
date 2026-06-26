@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&pause=1200&color=C8A951&center=true&vCenter=true&width=750&lines=%E2%96%88+THE+DARK+KNIGHT+OF+CODE+%E2%96%88;It%27s+not+who+I+am+underneath...+but+what+I+BUILD+that+defines+me.;Vajra-X.+AirGuard+AI.+VoxCivic.+Fabsight.;REsilient+AI+Hackathon+Finalist+%F0%9F%8F%86;Full+Stack+%7C+AI+%7C+Edge+Intelligence;Chennai+Institute+Of+Technology+%7C+3rd+Year+CSE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&pause=1200&color=C8A951&center=true&vCenter=true&width=750&lines=%E2%96%88+THE+DARK+KNIGHT+OF+CODE+%E2%96%88;It%27s+not+who+I+am+underneath...+but+what+I+BUILD+that+defines+me.;Vajra-X.+AirGuard+AI.+VoxCivic.+Fabsight.;REsilient+AI+Hackathon+Finalist+%F0%9F%8F%86;Full+Stack+%7C+AI+%7C+Edge+Intelligence;Chennai+Institute+of+Technology+%7C+3rd+Year+CSE)](https://git.io/typing-svg)
 
 <br/>
 
