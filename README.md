@@ -6,13 +6,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&pause=1200&color=C8A951&center=true&vCenter=true&width=750&lines=%E2%96%88+THE+DARK+KNIGHT+OF+CODE+%E2%96%88;It%27s+not+who+I+am+underneath...+but+what+I+BUILD+that+defines+me.;Vajra-X.+AirGuard+AI.+VoxCivic.+Fabsight.;REsilient+AI+Hackathon+Finalist+%F0%9F%8F%86;Full+Stack+%7C+AI+%7C+Edge+Intelligence;Selvamm+College+%7C+3rd+Year+CSE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&pause=1200&color=C8A951&center=true&vCenter=true&width=750&lines=%E2%96%88+THE+DARK+KNIGHT+OF+CODE+%E2%96%88;It%27s+not+who+I+am+underneath...+but+what+I+BUILD+that+defines+me.;Vajra-X.+AirGuard+AI.+VoxCivic.+Fabsight.;REsilient+AI+Hackathon+Finalist+%F0%9F%8F%86;Full+Stack+%7C+AI+%7C+Edge+Intelligence;Chennai+Institute+Of+Technology+%7C+3rd+Year+CSE)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=c8a951)](https://www.linkedin.com/in/gunanithi-e-206a39328)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=c8a951)](https://github.com/gunanithi-coder)
-[![Gmail](https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=gmail&logoColor=c8a951)](mailto:gunanithi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=gmail&logoColor=c8a951)](mailto:gunanithie13@gmail.com)
 [![Views](https://komarev.com/ghpvc/?username=gunanithi-coder&color=c8a951&style=for-the-badge&label=WATCHERS)](https://github.com/gunanithi-coder)
 
 </div>
@@ -21,14 +21,14 @@
 
 <div align="center">
 
-```
+<pre>
   ██████╗  █████╗ ████████╗███╗   ███╗ █████╗ ███╗   ██╗
   ██╔══██╗██╔══██╗╚══██╔══╝████╗ ████║██╔══██╗████╗  ██║
   ██████╔╝███████║   ██║   ██╔████╔██║███████║██╔██╗ ██║
   ██╔══██╗██╔══██║   ██║   ██║╚██╔╝██║██╔══██║██║╚██╗██║
   ██████╔╝██║  ██║   ██║   ██║ ╚═╝ ██║██║  ██║██║ ╚████║
   ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+</pre>
 
 *"The night is darkest just before the dawn. And I promise you, the dawn is coming."*
 
@@ -36,11 +36,13 @@
 
 ---
 
+<div align="center">
+
 ## 🦇 The Man Behind The Mask
 
-> *Gotham has Batman. The internet has DEVELOPER-Guna.*
+*Gotham has Batman. The internet has Gunanithi.*
 
-```
+<pre>
 ┌─────────────────────────────────────────────────────────────┐
 │                   ⚠  WAYNE ENTERPRISES FILE  ⚠              │
 │                   CLASSIFICATION : OPEN SOURCE              │
@@ -48,7 +50,7 @@
 │  OPERATIVE       │  Gunanithi                               │
 │  ALIAS           │  gunanithi-coder                         │
 │  BASE            │  Namakkal, Tamil Nadu, India             │
-│  INSTITUTE       │  Chennai Institute Of Technology         │
+│  INSTITUTE       │  Selvamm Arts & Science College          │
 ├──────────────────┼──────────────────────────────────────────┤
 │  CLEARANCE       │  Full Stack + AI Engineering             │
 │  ACHIEVEMENT     │  🏆 REsilient AI Hackathon Finalist       │
@@ -58,7 +60,9 @@
 ├──────────────────┼──────────────────────────────────────────┤
 │  CREED           │  "Build systems that think in the dark." │
 └──────────────────┴──────────────────────────────────────────┘
-```
+</pre>
+
+</div>
 
 ---
 
@@ -153,6 +157,16 @@ NXP Edge AI wafer defect detection. No cloud. No latency. Pure on-device inferen
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gunanithi-coder&hide_border=true&background=000000&ring=c8a951&fire=c8a951&currStreakLabel=c8a951&sideLabels=8a8a9a&currStreakNum=ffffff&sideNums=ffffff&dates=8a8a9a)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 The Trophy Vault — Wayne Manor
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gunanithi-coder&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
