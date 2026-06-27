@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=c8a951)]([https://yourportfolio.com](https://gunanithi-portfolio-website.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=c8a951)](https://gunanithi-portfolio-website.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=c8a951)](https://www.linkedin.com/in/gunanithi-e-206a39328)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=c8a951)](https://github.com/gunanithi-coder)
 [![Gmail](https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=gmail&logoColor=c8a951)](mailto:gunanithie13@gmail.com)
