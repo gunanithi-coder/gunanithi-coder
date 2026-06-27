@@ -10,6 +10,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=c8a951)]([https://yourportfolio.com](https://gunanithi-portfolio-website.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=c8a951)](https://www.linkedin.com/in/gunanithi-e-206a39328)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=c8a951)](https://github.com/gunanithi-coder)
 [![Gmail](https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=gmail&logoColor=c8a951)](mailto:gunanithie13@gmail.com)
@@ -157,16 +158,6 @@ NXP Edge AI wafer defect detection. No cloud. No latency. Pure on-device inferen
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gunanithi-coder&hide_border=true&background=000000&ring=c8a951&fire=c8a951&currStreakLabel=c8a951&sideLabels=8a8a9a&currStreakNum=ffffff&sideNums=ffffff&dates=8a8a9a)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 The Trophy Vault — Wayne Manor
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gunanithi-coder&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
