@@ -45,16 +45,16 @@
 
 <pre>
 ┌─────────────────────────────────────────────────────────────┐
-│                   ⚠  WAYNE ENTERPRISES FILE  ⚠              │
+│                   ⚠  WAYNE ENTERPRISES FILE  ⚠             │
 │                   CLASSIFICATION : OPEN SOURCE              │
 ├──────────────────┬──────────────────────────────────────────┤
 │  OPERATIVE       │  Gunanithi                               │
 │  ALIAS           │  gunanithi-coder                         │
 │  BASE            │  Namakkal, Tamil Nadu, India             │
-│  INSTITUTE       │  Selvamm Arts & Science College          │
+│  INSTITUTE       │  Chennai Institute Of Technology         │
 ├──────────────────┼──────────────────────────────────────────┤
 │  CLEARANCE       │  Full Stack + AI Engineering             │
-│  ACHIEVEMENT     │  🏆 REsilient AI Hackathon Finalist       │
+│  ACHIEVEMENT     │  🏆 REsilient AI Hackathon Finalist     │
 ├──────────────────┼──────────────────────────────────────────┤
 │  ACTIVE MISSIONS │  Innoverse · FOSS Hackathon              │
 │  INTEL TARGETS   │  Edge AI (NXP) · Tactical Intelligence   │
@@ -191,8 +191,9 @@ NXP Edge AI wafer defect detection. No cloud. No latency. Pure on-device inferen
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=150&section=footer&text=I+am+Batman.&fontSize=28&fontColor=c8a951&animation=fadeIn&fontAlignY=55)](https://github.com/gunanithi-coder)
 
-**`— Gunanithi | gunanithi-coder`**
 
 *"A hero can be anyone. Even a developer who ships at 3am."*
+
+**`— Gunanithi | gunanithi-coder`**
 
 </div>
